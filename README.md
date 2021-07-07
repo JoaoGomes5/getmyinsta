@@ -30,7 +30,7 @@
 
 ## 🧑‍🚀 Deploy
 
-You can view the project through [this link](https://www.figma.com/file/HhBDkd4v1XesZIYkZ3fFWp/PlantManager)
+You can view the project through [this link](https://getmyinta.joaogomes.dev/)
 
 
 ## Running the project
